@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-rick-lint",
+  "version": "1.0.2",
+  "description": "ESLint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rick",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.19.0",
+    "eslint-plugin-html": "^6.1.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-typescript": "^0.14.0",
+    "eslint-plugin-vue": "^7.5.0"
+  }
+}
